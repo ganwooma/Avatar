@@ -1,0 +1,5 @@
+name: CorpsePlugin
+version: '1.0'
+main: com.ganwooma.corpsePlugin.CorpsePlugin
+api-version: '1.20'
+depend: [Citizens]
